@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "MyungChan Park"
-resume_title:                   "Python/Djnago Server Developer"
+resume_title:                   "Python/Django Server Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "maniya12345@gmail.com"
