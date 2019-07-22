@@ -1,12 +1,25 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: [<div class="container">,
+<div class="column one-fourth"><img src="images/skills/python-logo.png"></div>,
+<div class="column one-fourth"><img src="images/skills/django-logo.png"></div>,
+</div>
+]
+  description: 
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: [<div class="container">,
+<div class="column one-fourth"><img src="images/skills/mysql-logo.png"></div>,
+<div class="column one-fourth"><img src="images/skills/elasticsearch-logo.png"></div>,
+</div>
+]
+  description: 
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: [<div class="container">,
+<div class="column one-fourth"><img src="images/skills/aws-logo.png"></div>,
+<div class="column one-fourth"><img src="images/skills/aws-ec2-logo.png"></div>,
+<div class="column one-fourth"><img src="images/skills/aws-lambda-dynamodb-logo.png"></div>,
+</div>
+]
+  description:
