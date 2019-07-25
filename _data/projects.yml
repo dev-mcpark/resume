@@ -1,16 +1,47 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Implemented Email Verification System
+- project: Implemented Email Verification System
+  role: 
+  duration: 2018.6 &mdash; 2018.7
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Implemented serverless validation of subscribed emails using Aws Lambda
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+
+# Glowpick API Server development
+- project: Glowpick API Server development
+  role: 
+  duration: 2016.7 &mdash; 2018.1
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Rebuild php-based server to python / django server. Construct Rest Api server by separating back-end and front-end
+
+
+# Open Rest API Server Develop
+- project: Open Rest API Server Develop
+  role: 
+  duration: 2016.11 &mdash; 2017.2
+  # url: "#"
+  description: Construct separate Rest API server providing data of contracted external vendor </br>Create an administrator site for mapping company data and third-party data
+
+
+# unichal.com (homepage) development
+- project: unichal.com (homepage) development
+  role: 
+  duration: 2015.3 &mdash; 2015.7
+  # url: "#"
+  description: Integrated shopping mall site and homepage reorganization work Homepage structure design, Server setting
+
+# KT Mobile Integrated Pairing Project
+- project: KT Mobile Integrated Pairing Project
+  role: frontend development with Java and Spring framework
+  duration: 2015.2 &mdash; 2015.5
+  # url: "#"
+  description: Mobile WebView screen interface implementation and API integration
+
+# KT OllehFunZone Admin site improvements
+- project: KT OllehFunZone Admin site improvements
+  role: 
+  duration: 2015.9 &mdash; 2015.12
+  # url: "#"
+  description: KT OllehFunZone Admin site improvements
